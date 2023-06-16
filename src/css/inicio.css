@@ -1,0 +1,24 @@
+
+.link{
+    padding:8px;
+    background:red;
+    color:white;
+    border-Radius:15px;
+    text-Decoration:none;
+    margin-Top: 5px;
+    margin-Bottom:5px
+}
+
+
+.inicio{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.general{
+    background-image: url('https://rare-gallery.com/uploads/posts/306680-Rick-and-Morty-Portal-8K.jpg');
+    background-size: cover;
+}
