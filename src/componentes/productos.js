@@ -50,7 +50,7 @@ function Productos() {
                 
                    <div className="info">
                    <h3>{character.name}</h3>
-                   <h6> Numero: {character.id} </h6>
+                   <h6> Numero1: {character.id} </h6>
                    <h6> Genero: {character.gender}</h6>
                    <h6> Especie: {character.species}</h6>
                    <h6> Ubicación: {character.location.name}</h6>
