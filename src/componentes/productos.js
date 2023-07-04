@@ -12,7 +12,8 @@ function Productos() {
         if(pagina < 42){
             setPagina(pepito => pepito + 1);
         }else {
-              navigate('/endpage') 
+            //   navigate('/endpage') 
+            alert('No hay mas personajes')
         }
         
      };
