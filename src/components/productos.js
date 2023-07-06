@@ -13,7 +13,7 @@ function Productos() {
             setPagina(pepito => pepito + 1);
         }else {
             //   navigate('/endpage') 
-            alert('No hay mas personajes 🖕🏻')
+            alert('No hay mas personajes 🖕🏻.')
         }
         
      };
